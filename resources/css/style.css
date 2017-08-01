@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+text-align: center;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-family: Verdana;
+}
+
+p {
+      font-size: 16px;
+}
+
+a {
+  color: aquamarine;
+}
